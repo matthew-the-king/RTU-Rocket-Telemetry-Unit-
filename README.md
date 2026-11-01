@@ -19,6 +19,8 @@ The RTU can transmit data through an on-board LoRa module; you must connect the 
 ## Servo Control
 The RTU can control up to three 5V servos; the servo ports can be found in these locations:<br>
 <img width="644" height="589" alt="Screenshot 2026-10-31 202509" src="https://github.com/user-attachments/assets/f238ee2a-e590-41ba-a623-f5fd7fa4d06b" />
+## Firmware
+currently no firmware because I do not have the board yet.
 
 # Important Information
 To ensure that the 3.3V regulator works correctly, make sure to place only ONE of the resistors circled; it is recommended to place the FPWM resistor and not the PFM resistor.<br>
