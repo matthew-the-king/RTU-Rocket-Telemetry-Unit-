@@ -21,5 +21,5 @@ The RTU can control up to three 5V servos; the servo ports can be found in these
 <img width="644" height="589" alt="Screenshot 2026-10-31 202509" src="https://github.com/user-attachments/assets/f238ee2a-e590-41ba-a623-f5fd7fa4d06b" />
 
 # Important Information
-To ensure that the 3.3V regulator works correctly, make sure to place only ONE of the resistors circled; it is recommended to place the FPWM resistor and not the PWM resistor.<br>
+To ensure that the 3.3V regulator works correctly, make sure to place only ONE of the resistors circled; it is recommended to place the FPWM resistor and not the PFM resistor.<br>
 <img width="477" height="330" alt="Screenshot 2026-10-31 203311" src="https://github.com/user-attachments/assets/677395f6-11e5-44e8-8ef5-ad82d745b5c8" />
