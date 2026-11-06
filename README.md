@@ -1,5 +1,7 @@
 # RTU-Rocket-Telemetry-Unit-
 The RTU(Rocket Telemetry Unit) is an all-in-one solution for logging and transmitting data, plus controlling up to 3 servos. 
+<img width="606" height="513" alt="image" src="https://github.com/user-attachments/assets/6cea6e9b-b98f-4d15-9c51-076613c5836f" />
+<img width="1411" height="669" alt="image" src="https://github.com/user-attachments/assets/f5ebcb01-5129-4854-a175-52e246fea12c" />
 
 ## Specifications
 The RTU contains the following:<br>
