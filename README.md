@@ -60,6 +60,7 @@ The RTU can control up to three 5V servos; the servo ports can be found in these
 |U6                                                                                              |VAL0015A-MFG                            |1       |XTPS55285VALR          | [Link](https://www.digikey.com/en/products/detail/texas-instruments/TPS55285VALR/28143335) | $4.15 |
 |U7                                                                                              |SOT50P160X60-8N                         |1       |TPS631000DRLR          | [Link](https://www.digikey.com/en/products/detail/texas-instruments/TPS631000DRLR/15965499) | $2.20 |
 |Y1                                                                                              |CRYSTAL_ABM8G_ABR                       |1       |ABM8G-25.000MHZ-B4Y-T  | [Link](https://www.digikey.com/en/products/detail/abracon-llc/ABM8G-25-000MHZ-B4Y-T/2218043) | $0.86 |
+||||||Total Price:$54.96 + plus shipping ~ $5.00|
 
 For the PCB, I recommend using JLPCB; it costs only $8 for 5 boards plus shipping. 
 ## Firmware
